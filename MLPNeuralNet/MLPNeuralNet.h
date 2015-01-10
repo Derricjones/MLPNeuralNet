@@ -5,7 +5,16 @@
 //  Created by Mykola Pavlov on 9/23/13.
 //  Copyright (c) 2013 Biomech, Inc. All rights reserved.
 //
-//  **********************************************************************************
+//  
+
+
+
+
+
+
+
+
+**********************************************************************************
 //
 //  This library is designed to predicts new examples by trained neural net.
 //  Use it for regression, classification and multiclass classification problems.
